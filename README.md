@@ -1,4 +1,4 @@
-# product-hackathon
+# GradRise - A job readiness platform grounded in mental wellbeing
 Product Management Club Hackathon submission
 
 Problem Statement:
